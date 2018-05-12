@@ -1,0 +1,28 @@
+_repo: A-Berzsenyi-le-nyok-tizenk-t-v-leg-nyeTollrajzok-a-mai-Budapestr-l_40577
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40577'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PH'
+title: 'A Berzsenyi-leányok tizenkét vőlegénye: Tollrajzok a mai Budapestről'
+url: http://www.gutenberg.org/ebooks/40577
